@@ -1,4 +1,4 @@
 transformers
-ctransformers
+ctransformers==0.2.27
 langchain
 streamlit
