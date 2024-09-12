@@ -1,4 +1,4 @@
 transformers
-ctransformers==0.2.27
-langchain==0.2.16
-streamlit==1.22.0
+ctransformers
+langchain
+streamlit
